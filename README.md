@@ -1,3 +1,16 @@
+This repository contains the solution files for Assignment 1 of the "Exploratory Data Analysis" course on Coursera.
+
+There are 4 files containing R code, named Plot1.R, Plot2.R, Plot3.R, and Plot4.R.  Each code file produce a png plot and these correspond to the png files Plot1.png, Plot2.png, Plot3.png, and Plot4.png.
+
+In order to run the R code files, the dataset "household_power_consumption.txt" must be in the working directory. 
+
+The dataset can be downloaded from this link: (https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
+
+Full details of the assignment follow:
+
+
+
+
 ## Introduction
 
 This assignment uses data from
